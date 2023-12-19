@@ -1,0 +1,45 @@
+Name,UsageCount,GroupType,Feedback,Availability,Link(s),#Individual feedback,#GroupFeedback,group size,Notes
+dummy,"bibID1, bibID2,...",No groups / implicit groups / explicit groups...,individual / implicit group / explicit group / choice satisfaction,original source / other sources / not available,links to dataset,xxx,xxx,xxx,"e.g., multiple versions under the same name etc."
+ml1m,30,No groups,,original,https://grouplens.org/datasets/movielens/,1 000K,-,-,
+camra2011,27,Household groups,explicit group,other sources,"https://github.com/LianHaiMiao/Attentive-Group-Recommendation/tree/master/data/CAMRa2011, https://github.com/0411tony/HHGR/tree/main/data",116K,145K,avg: 2.1,broken link: http://2011.camrachallenge.com/2011
+ml100k,20,No groups,,original,https://grouplens.org/datasets/movielens/,100K,-,-,
+yelp (https://dl.acm.org/doi/pdf/10.1145/3477495.3532066),19,Social+Temporal proximity,implicit group,not available,-,482K,27K,avg: 4.5,"broken link: https://www.yelp.com/dataset/challenge; another yelp dataset exists (https://www.yelp.com/dataset), but it only contains aggregated checkings (without user-checkin link)"
+- Yelp (LA): https://dl.acm.org/doi/pdf/10.1145/3397271.3401116,-,-,-,not available,-,220K,11K,avg: 6.8,only restaurants in LA area
+douban,17,Event-based,implicit group,other sources,https://github.com/0411tony/HHGR/tree/main/data,823K,463K,unknown,
+"- Douban (Beijing) https://dl.acm.org/doi/pdf/10.1145/3477495.3532066, https://dl.acm.org/doi/pdf/10.1145/3511808.3557330",-,-,-,not available,-,3 422K,164K,avg: 4.8,broken link: https://drive.google.com/file/d/1jnRwcjx9oenpwKQHsmGLASSqI9fLZh_o/view?usp=sharing
+- Douban (Beijing) https://dl.acm.org/doi/pdf/10.1145/3477495.3532066,-,-,-,not available,-,14K,3K,unknown,
+meetup,15,Event-based,implicit group,,,,,,"multiple versions exists (self-crawled), not distinguishable even by location strings"
+- meetup (NY): https://dl.acm.org/doi/pdf/10.1145/3477495.3532066,-,-,-,not available,-,127K,19K,avg: 8.8,probably the same as Meetup Nashville & incorrectly labelled
+- meetup (Nashville): https://ieeexplore.ieee.org/abstract/document/9195784,-,-,-,original,https://www.kaggle.com/datasets/stkbailey/nashville-meetup,127K,19K,avg: 8.8,
+- meetup (NY): https://ieeexplore.ieee.org/abstract/document/9335294,-,-,-,not available,-,288K,101K,-,
+- meetup (NY): https://www.sciencedirect.com/science/article/pii/S0020025522008933,-,-,-,not available,-,864K,4K,avg: 330,"probably ignoring social aspect, used for tag recommendations"
+"mafengwo (https://www.sciencedirect.com/science/article/pii/S0020025522011100, https://www.sciencedirect.com/science/article/pii/S0031320322000826,https://ieeexplore.ieee.org/abstract/document/9644586)",13,Group travels,implicit group,original,https://github.com/caoda0721/SoAGREE/tree/master/data/MaFengWo,40K,4K,avg: 7.2,"seemingly, only one version exists"
+ml20m,9,No groups,,original,https://grouplens.org/datasets/movielens/,20M,-,-,
+gowalla (https://dl.acm.org/doi/pdf/10.1145/3477495.3532066),7,Social+Temporal proximity,implicit group,original,"https://www.yongliu.org/datasets/, https://github.com/0411tony/HHGR/tree/main/data",1 026K,155K,avg: 2.8,"multiple different versions exist, see e.g. https://www.sciencedirect.com/science/article/pii/S0950705120307887"
+- gowalla (https://dl.acm.org/doi/pdf/10.1145/3477495.3532066),7,Social+Temporal proximity,implicit group,not available,-,1 626K,208K,avg: 2.3,"multiple different versions exist, see e.g. https://www.sciencedirect.com/science/article/pii/S0950705120307887"
+- gowalla (https://www.sciencedirect.com/science/article/pii/S0020025522008933),7,Social+Temporal proximity,implicit group,not available,-,22K,11K,avg: 2.1,"multiple different versions exist, see e.g. https://www.sciencedirect.com/science/article/pii/S0950705120307887"
+"weeplaces (https://dl.acm.org/doi/pdf/10.1145/3459637.3482426, https://onlinelibrary.wiley.com/doi/full/10.1002/int.23011)",5,Social+Temporal proximity,implicit group,original,"https://www.yongliu.org/datasets/, https://github.com/0411tony/HHGR/tree/main/data",1 358K,180K,avg: 2.9,
+- weeplaces (https://dl.acm.org/doi/pdf/10.1145/3539597.3570400),5,Social+Temporal proximity,implicit group,not available,-,508K,67K,avg: 2.9,
+last.fm (https://ieeexplore.ieee.org/abstract/document/9348091),5,No groups,,not available,-,74K,-,-,original dataset available: http://millionsongdataset.com/lastfm/ but stats does not match (probably due to some filtering)
+- last.fm (https://www.sciencedirect.com/science/article/pii/S0020025521004254),5,No groups,,not available,-,1 115K,-,-,broken link: https://carl.cs.indiana.edu/data/last.fm/
+ciao (https://www.sciencedirect.com/science/article/pii/S1084804520300539),4,No groups,,original,https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm,148K,-,-,items with at least 5 ratings
+kgrec,4,No groups,,original,https://www.upf.edu/web/mtg/kgrec,752K,-,-,alternate link: https://github.com/mesutkaya/recsys2020
+netflix,4,No groups,,not available,-,,,,
+lbsnswarm (Ankara): https://www.sciencedirect.com/science/article/pii/S0957417421000348,3,Social+Temporal proximity,,data collection scripts,https://github.com/frederickayala/lbsn_group_recsys,70K,46K,unknown,
+- lbsnswarm (Ankara): https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12848,3,Social+Temporal proximity,,data collection scripts,https://github.com/frederickayala/lbsn_group_recsys,70K,8K,unknown,
+,,,,,,,,,
+Only add the ones below if there is a group info & data are available,,,,,,,,,
+TRAVEL (https://dl.acm.org/doi/abs/10.1145/3314183.3324987),1,User study with groups,explicit group + choice satisfaction,other sources,https://github.com/barnap/group-recommenders-offline-evaluation/tree/main,3K,160,2-5,
+Barile 2023,1,External evaluation of fairness,external,original,https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/8EVX4U,-,288,5,
+,,,,,,,,,
+sushi,2,No groups,,,,,,,
+tripadvisor,2,,,,,,,,
+goodreads,2,No groups,,,,,,,
+plancast,2,,,,,,,,
+foursquare,2,,,,,,,,
+irishelection,2,,,,,,,,
+epinions,2,,,original,https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm,,,,
+ml10m,2,No groups,,,,,,,
+delicious,2,No groups,,,,85K,-,-,
+flickr,2,,,,,,,,
+hetrec,2,,,,,,,,
