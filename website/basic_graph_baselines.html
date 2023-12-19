@@ -1,0 +1,45 @@
+<head>
+    <style> body { margin: 0; } </style>
+  
+    <script src="force-graph.min.js"></script>
+    <script src="jquery-3.7.1.min.js"></script>
+    <!--<script src="../../dist/force-graph.js"></script>-->
+  </head>
+  
+  <body>
+    <div id="graph"></div>
+  
+    <script>
+        fetch('graphsDef/graphEdgesBaselines.json').then(res => res.json()).then(data => {
+            const Graph = ForceGraph()
+            (document.getElementById('graph'))
+            .graphData(data)
+            .nodeId('id')
+            .nodeVal('val')
+            .nodeLabel('label')
+            .nodeAutoColorBy('year')
+            .linkSource('source')
+            .linkTarget('target')
+            .linkLabel('label')
+            .linkWidth('value')
+        });
+
+    </script>
+  </body>
+
+  <!--
+
+
+        $.get('graphEdgesAuthors.json', function (res) {
+            data = res.json();
+            const Graph = ForceGraph()
+                (document.getElementById('graph'))
+                .graphData(data)
+                .nodeId('id')
+                .nodeVal('val')
+                .nodeLabel('label')
+                .nodeAutoColorBy('year')
+                .linkSource('source')
+                .linkTarget('target');
+        });      
+    -->
