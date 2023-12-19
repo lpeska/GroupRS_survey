@@ -1,0 +1,5977 @@
+{
+   "nodes": [
+      {
+         "id": 1,
+         "label": "Barzegar_Nozari_2020",
+         "title": "A novel group recommender system based on members\u2019 influence and leader impact",
+         "year": "2020",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 2,
+         "label": "Wang_2016",
+         "title": "Member contribution-based group recommender system",
+         "year": "2016",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 3,
+         "label": "P_rez_Almaguer_2021",
+         "title": "Content-based group recommender systems: A general taxonomy and further improvements",
+         "year": "2021",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 4,
+         "label": "Ka_k_2016",
+         "title": "Personalized hybrid recommendation for group of users: Top-N multimedia recommender",
+         "year": "2016",
+         "venue": "Information Processing &amp; Management"
+      },
+      {
+         "id": 6,
+         "label": "Castro_2018",
+         "title": "Opinion Dynamics-Based Group Recommender Systems",
+         "year": "2018",
+         "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+      },
+      {
+         "id": 8,
+         "label": "Sacharidis_2019",
+         "title": "Top-N group recommendations with fairness",
+         "year": "2019",
+         "venue": "SAC"
+      },
+      {
+         "id": 10,
+         "label": "Qi_2017",
+         "title": "Recommending packages with validity constraints to groups of users",
+         "year": "2017",
+         "venue": "Knowledge and Information Systems"
+      },
+      {
+         "id": 12,
+         "label": "Serbos_2017",
+         "title": "Fairness in Package-to-Group Recommendations",
+         "year": "2017",
+         "venue": "WWW"
+      },
+      {
+         "id": 14,
+         "label": "10.1145/3511808.3557330",
+         "title": "GBERT: Pre-Training User Representations for Ephemeral Group Recommendation",
+         "year": "2022",
+         "venue": "CIKM"
+      },
+      {
+         "id": 15,
+         "label": "Leng_2022",
+         "title": "Dynamically aggregating individuals\u2019 social influence and interest evolution for group recommendations",
+         "year": "2022",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 16,
+         "label": "Villavicencio_2019",
+         "title": "Group recommender systems: A multi-agent solution",
+         "year": "2019",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 17,
+         "label": "Castro_2018",
+         "title": "A fuzzy approach for natural noise management in group recommender systems",
+         "year": "2018",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 18,
+         "label": "Purushotham_2016",
+         "title": "Personalized Group Recommender Systems for Location- and Event-Based Social Networks",
+         "year": "2016",
+         "venue": "ACM Transactions on Spatial Algorithms and Systems"
+      },
+      {
+         "id": 21,
+         "label": "Contreras_2021",
+         "title": "Integrating Collaboration and Leadership in Conversational Group Recommender Systems",
+         "year": "2021",
+         "venue": "ACM Transactions on Information Systems"
+      },
+      {
+         "id": 22,
+         "label": "Meena_2018",
+         "title": "Group Recommender Systems \u2013 An Evolutionary Approach Based on Multi-expert System for Consensus",
+         "year": "2018",
+         "venue": "Journal of Intelligent Systems"
+      },
+      {
+         "id": 23,
+         "label": "Ismailoglu_2022",
+         "title": "Aggregating user preferences in group recommender systems: A crowdsourcing approach",
+         "year": "2022",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 25,
+         "label": "Nguyen_2017",
+         "title": "A chat-based group recommender system for tourism",
+         "year": "2017",
+         "venue": "Information Technology &amp; Tourism"
+      },
+      {
+         "id": 26,
+         "label": "Ahmad_2017",
+         "title": "A combination of individual model on memory-based group recommender system to the books domain",
+         "year": "2017",
+         "venue": "ICoIC"
+      },
+      {
+         "id": 27,
+         "label": "Huang_2022",
+         "title": "A Novel Group Recommendation Model With Two-Stage Deep Learning",
+         "year": "2022",
+         "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+      },
+      {
+         "id": 28,
+         "label": "_lvarez_M_rquez_2016",
+         "title": "Hootle+: A Group Recommender System Supporting Preference Negotiation",
+         "year": "2016",
+         "venue": "CRIWG"
+      },
+      {
+         "id": 29,
+         "label": "Huang_2020",
+         "title": "An Efficient Group Recommendation Model With Multiattention-Based Neural Networks",
+         "year": "2020",
+         "venue": "IEEE Transactions on Neural Networks and Learning Systems"
+      },
+      {
+         "id": 30,
+         "label": "Guo_2017",
+         "title": "Applying uncertainty theory to group recommender systems taking account of experts preferences",
+         "year": "2017",
+         "venue": "Multimedia Tools and Applications"
+      },
+      {
+         "id": 31,
+         "label": "Yin_2019",
+         "title": "Social Influence-Based Group Representation Learning for Group Recommendation",
+         "year": "2019",
+         "venue": "ICDE"
+      },
+      {
+         "id": 32,
+         "label": "Cao_2021",
+         "title": "Social-Enhanced Attentive Group Recommendation",
+         "year": "2021",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 33,
+         "label": "Qin_2020",
+         "title": "Dynamic Connection-Based Social Group Recommendation",
+         "year": "2020",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 34,
+         "label": "Xiao_2017",
+         "title": "Fairness-Aware Group Recommendation with Pareto-Efficiency",
+         "year": "2017",
+         "venue": "RecSys"
+      },
+      {
+         "id": 36,
+         "label": "Yera_2022",
+         "title": "A fuzzy content-based group recommender system with dynamic selection of the aggregation functions",
+         "year": "2022",
+         "venue": "International Journal of Approximate Reasoning"
+      },
+      {
+         "id": 37,
+         "label": "Pujahari_2020",
+         "title": "Aggregation of preference relations to enhance the ranking quality of collaborative filtering based group recommender system",
+         "year": "2020",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 38,
+         "label": "Guo_2020",
+         "title": "Implicit Feedback-based Group Recommender System for Internet of Things Applications",
+         "year": "2020",
+         "venue": "GLOBECOM"
+      },
+      {
+         "id": 40,
+         "label": "Guo_2019",
+         "title": "An Enhanced Group Recommender System by Exploiting Preference Relation",
+         "year": "2019",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 41,
+         "label": "Azzalini_2022",
+         "title": "FARGO: A Fair, Context-AwaRe, Group RecOmmender System",
+         "year": "2022",
+         "venue": "BIAS"
+      },
+      {
+         "id": 43,
+         "label": "Ortega_2016",
+         "title": "Recommending items to group of users using Matrix Factorization based Collaborative Filtering",
+         "year": "2016",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 44,
+         "label": "Guo_2017",
+         "title": "A Social Influence Approach for Group User Modeling in Group Recommendation Systems",
+         "year": "2017",
+         "venue": "IEEE Intelligent Systems"
+      },
+      {
+         "id": 46,
+         "label": "Wang_2019",
+         "title": "TruGRC: Trust-Aware Group Recommendation with Virtual Coordinators",
+         "year": "2019",
+         "venue": "Future Generation Computer Systems"
+      },
+      {
+         "id": 47,
+         "label": "Ji_2018",
+         "title": "GIST: A generative model with individual and subgroup-based topics for group recommendation",
+         "year": "2018",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 48,
+         "label": "Agarwal_2017",
+         "title": "Does order matter? Effect of order in group recommendation",
+         "year": "2017",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 50,
+         "label": "Castro_2017",
+         "title": "An empirical study of natural noise management in group recommendation systems",
+         "year": "2017",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 51,
+         "label": "Vo_2018",
+         "title": "Generation meets recommendation: proposing novel items for groups of users",
+         "year": "2018",
+         "venue": "RecSys"
+      },
+      {
+         "id": 53,
+         "label": "Huang_2020",
+         "title": "Social Group Recommendation With TrAdaBoost",
+         "year": "2020",
+         "venue": "IEEE Transactions on Computational Social Systems"
+      },
+      {
+         "id": 54,
+         "label": "Malecek_2021",
+         "title": "Fairness-preserving Group Recommendations With User Weighting",
+         "year": "2021",
+         "venue": "UMAP"
+      },
+      {
+         "id": 55,
+         "label": "Kaya_2020",
+         "title": "Ensuring Fairness in Group Recommendations by Rank-Sensitive Balancing of Relevance",
+         "year": "2020",
+         "venue": "RecSys"
+      },
+      {
+         "id": 60,
+         "label": "Li_2023",
+         "title": "Self-Supervised Group Graph Collaborative Filtering for Group Recommendation",
+         "year": "2023",
+         "venue": "WSDM"
+      },
+      {
+         "id": 61,
+         "label": "Dokoupil_2023",
+         "title": "The Effect of Similarity Metric and Group Size on Outlier Selection &amp; Satisfaction in Group Recommender Systems",
+         "year": "2023",
+         "venue": "UMAP"
+      },
+      {
+         "id": 62,
+         "label": "Liang_2022",
+         "title": "DFGR: Diversity and Fairness Awareness of Group Recommendation in an Event-based Social Network",
+         "year": "2022",
+         "venue": "Neural Processing Letters"
+      },
+      {
+         "id": 63,
+         "label": "Stratigi_2023",
+         "title": "SQUIRREL: A framework for sequential group recommendations through reinforcement learning",
+         "year": "2023",
+         "venue": "Information Systems"
+      },
+      {
+         "id": 64,
+         "label": "Ji_2023",
+         "title": "A fuzzy intelligent group recommender method in sparse-data environments based on multi-agent negotiation",
+         "year": "2023",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 65,
+         "label": "Bahari_Sojahrood_2023",
+         "title": "Hybrid POI group recommender system based on group type in LBSN",
+         "year": "2023",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 66,
+         "label": "Ayala_G_mez_2017",
+         "title": "Where Could We Go?: Recommendations for Groups in Location-Based Social Networks",
+         "year": "2017",
+         "venue": "WebSci"
+      },
+      {
+         "id": 67,
+         "label": "Barile_2023",
+         "title": "Evaluating explainable social choice-based aggregation strategies for group recommendation",
+         "year": "2023",
+         "venue": "User Modeling and User-Adapted Interaction"
+      },
+      {
+         "id": 68,
+         "label": "Ceh_Varela_2022",
+         "title": "Performance Evaluation of Aggregation-based Group Recommender Systems for Ephemeral Groups",
+         "year": "2022",
+         "venue": "ACM Transactions on Intelligent Systems and Technology"
+      },
+      {
+         "id": 69,
+         "label": "Liang_2022",
+         "title": "A Hierarchical Attention Network for Cross-Domain Group Recommendation",
+         "year": "2022",
+         "venue": "IEEE Transactions on Neural Networks and Learning Systems"
+      },
+      {
+         "id": 70,
+         "label": "Zhang_2023",
+         "title": "HetGRec: Heterogeneous Graph Attention Network for Group Recommendation",
+         "year": "2023",
+         "venue": "IEEE Intelligent Systems"
+      },
+      {
+         "id": 71,
+         "label": "Wang_2022",
+         "title": "Intra- and inter-association attention network-enhanced policy learning for social group recommendation",
+         "year": "2022",
+         "venue": "World Wide Web"
+      },
+      {
+         "id": 72,
+         "label": "Streviniotis_2022",
+         "title": "Preference Aggregation Mechanisms for\u00a0a\u00a0Tourism-Oriented Bayesian Recommender",
+         "year": "2022",
+         "venue": ""
+      },
+      {
+         "id": 73,
+         "label": "Yu_2023",
+         "title": "Collaborative group embedding and decision aggregation based on attentive influence of individual members: A group recommendation perspective",
+         "year": "2023",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 74,
+         "label": "Abolghasemi_2022",
+         "title": "A personality-aware group recommendation system based on pairwise preferences",
+         "year": "2022",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 75,
+         "label": "Kumar_2022",
+         "title": "Automatically detecting groups using locality-sensitive hashing in group recommendations",
+         "year": "2022",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 77,
+         "label": "Leng_2022",
+         "title": "Incorporating global and local social networks for group recommendations",
+         "year": "2022",
+         "venue": "Pattern Recognition"
+      },
+      {
+         "id": 78,
+         "label": "Wang_2022",
+         "title": "Social dual-effect driven group modeling for neural group recommendation",
+         "year": "2022",
+         "venue": "Neurocomputing"
+      },
+      {
+         "id": 79,
+         "label": "PeskaM21",
+         "title": "Coupled or Decoupled Evaluation for Group Recommendation Methods?",
+         "year": "2021",
+         "venue": "RecSys"
+      },
+      {
+         "id": 80,
+         "label": "Nam_2021",
+         "title": "Towards comprehensive profile aggregation methods for group recommendation based on the latent factor model",
+         "year": "2021",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 81,
+         "label": "Sajjadi_Ghaemmaghami_2021",
+         "title": "DeepGroup: Group Recommendation with Implicit Feedback",
+         "year": "2021",
+         "venue": "CIKM"
+      },
+      {
+         "id": 82,
+         "label": "Guo_2021",
+         "title": "Hierarchical Hyperedge Embedding-Based Representation Learning for Group Recommendation",
+         "year": "2021",
+         "venue": "ACM Transactions on Information Systems"
+      },
+      {
+         "id": 83,
+         "label": "10.1145/3477495.3532066",
+         "title": "Thinking inside The Box: Learning Hypercube Representations for Group Recommendation",
+         "year": "2022",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 84,
+         "label": "Zhang_2021",
+         "title": "Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation",
+         "year": "2021",
+         "venue": "CIKM"
+      },
+      {
+         "id": 85,
+         "label": "Liao_2021",
+         "title": "Softwarized Attention-Based Context-Aware Group Recommendation Technology in Event-Based Industrial Cyber-Physical Systems",
+         "year": "2021",
+         "venue": "IEEE Transactions on Industrial Informatics"
+      },
+      {
+         "id": 86,
+         "label": "Deng_2021",
+         "title": "Knowledge-Aware Group Representation Learning for Group Recommendation",
+         "year": "2021",
+         "venue": "ICDE"
+      },
+      {
+         "id": 87,
+         "label": "Sato_2022",
+         "title": "Enumerating Fair Packages for Group Recommendations",
+         "year": "2022",
+         "venue": "WSDM"
+      },
+      {
+         "id": 88,
+         "label": "Dokoupil_2022",
+         "title": "Robustness Against Polarity Bias in Decoupled Group Recommendations Evaluation",
+         "year": "2022",
+         "venue": "UMAP"
+      },
+      {
+         "id": 89,
+         "label": "Liang_2021",
+         "title": "Hierarchical Fuzzy Graph Attention Network for Group Recommendation",
+         "year": "2021",
+         "venue": "FUZZ-IEEE"
+      },
+      {
+         "id": 91,
+         "label": "Jia_2021",
+         "title": "Hypergraph Convolutional Network for Group Recommendation",
+         "year": "2021",
+         "venue": "ICDM"
+      },
+      {
+         "id": 92,
+         "label": "Pujahari_2020",
+         "title": "Preference relation based collaborative filtering with graph aggregation for group recommender system",
+         "year": "2020",
+         "venue": "Applied Intelligence"
+      },
+      {
+         "id": 93,
+         "label": "Stratigi_2021",
+         "title": "Sequential group recommendations based on satisfaction and disagreement scores",
+         "year": "2021",
+         "venue": "Journal of Intelligent Information Systems"
+      },
+      {
+         "id": 94,
+         "label": "Hao_2022",
+         "title": "Self\u2010supervised graph learning for occasional group recommendation",
+         "year": "2022",
+         "venue": "International Journal of Intelligent Systems"
+      },
+      {
+         "id": 95,
+         "label": "Bahari_Sojahrood_2021",
+         "title": "Behavior\u2010based POI recommendation for small groups in location\u2010based social networks",
+         "year": "2021",
+         "venue": "Transactions in GIS"
+      },
+      {
+         "id": 96,
+         "label": "Zan_2021",
+         "title": "UDA: A user-difference attention for group recommendation",
+         "year": "2021",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 97,
+         "label": "Wang_2021",
+         "title": "Socially-driven multi-interaction attentive group representation learning for group recommendation",
+         "year": "2021",
+         "venue": "Pattern Recognition Letters"
+      },
+      {
+         "id": 98,
+         "label": "Jeong_2021",
+         "title": "DGC: Dynamic group behavior modeling that utilizes context information for group recommendation",
+         "year": "2021",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 99,
+         "label": "Bahari_Sojahrood_2021",
+         "title": "A POI group recommendation method in location-based social networks based on user influence",
+         "year": "2021",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 100,
+         "label": "Lyu_2021",
+         "title": "Multi-view group representation learning for location-aware group recommendation",
+         "year": "2021",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 101,
+         "label": "Yalcin_2021",
+         "title": "Investigating and counteracting popularity bias in group recommendations",
+         "year": "2021",
+         "venue": "Information Processing &amp; Management"
+      },
+      {
+         "id": 102,
+         "label": "Schiaffino_2020",
+         "title": "A MAS-Based Approach for POI Group Recommendation in LBSN",
+         "year": "2020",
+         "venue": "PAAMS"
+      },
+      {
+         "id": 103,
+         "label": "10.1145/3397271.3401064",
+         "title": "GAME: Learning Graphical and Attentive Multi-View Embeddings for Occasional Group Recommendation",
+         "year": "2020",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 104,
+         "label": "10.1145/3397271.3401116",
+         "title": "GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation",
+         "year": "2020",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 105,
+         "label": "Wang_2020",
+         "title": "Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation",
+         "year": "2020",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 108,
+         "label": "Guo_2020",
+         "title": "Group Recommendation with Latent Voting Mechanism",
+         "year": "2020",
+         "venue": "ICDE"
+      },
+      {
+         "id": 110,
+         "label": "Zheng_2020",
+         "title": "Educational Group Recommendations with Virtual Leaders",
+         "year": "2020",
+         "venue": "ICALT"
+      },
+      {
+         "id": 111,
+         "label": "Yin_2020",
+         "title": "Overcoming Data Sparsity in Group Recommendation",
+         "year": "2020",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 112,
+         "label": "Zhu_2020",
+         "title": "Context-Aware Restaurant Recommendation for Group of People",
+         "year": "2020",
+         "venue": "SERVICES"
+      },
+      {
+         "id": 113,
+         "label": "Yu_2022",
+         "title": "Secure Artificial Intelligence of Things for Implicit Group Recommendations",
+         "year": "2022",
+         "venue": "IEEE Internet of Things Journal"
+      },
+      {
+         "id": 114,
+         "label": "Zhao_2020",
+         "title": "A new point-of-interest group recommendation method in location-based social networks",
+         "year": "2020",
+         "venue": "Neural Computing and Applications"
+      },
+      {
+         "id": 115,
+         "label": "Choudhary_2020",
+         "title": "Negotiation framework for group recommendation based on fuzzy computational model of trust and distrust",
+         "year": "2020",
+         "venue": "Multimedia Tools and Applications"
+      },
+      {
+         "id": 116,
+         "label": "Salehi_Abari_2020",
+         "title": "Group recommendation with noisy subjective preferences",
+         "year": "2020",
+         "venue": "Computational Intelligence"
+      },
+      {
+         "id": 117,
+         "label": "Xiao_2020",
+         "title": "An enhanced probabilistic fairness-aware group recommendation by incorporating social activeness",
+         "year": "2020",
+         "venue": "Journal of Network and Computer Applications"
+      },
+      {
+         "id": 118,
+         "label": "Wang_2020",
+         "title": "Group recommendation based on hybrid trust metric",
+         "year": "2020",
+         "venue": "Automatika"
+      },
+      {
+         "id": 119,
+         "label": "Natarajan_2019",
+         "title": "Optimized fuzzy-based group recommendation with parallel computation",
+         "year": "2019",
+         "venue": "Journal of Intelligent &amp; Fuzzy Systems"
+      },
+      {
+         "id": 120,
+         "label": "Herzog_2019",
+         "title": "User-centered evaluation of strategies for recommending sequences of points of interest to groups",
+         "year": "2019",
+         "venue": "RecSys"
+      },
+      {
+         "id": 121,
+         "label": "Sacharidis_2019",
+         "title": "Modeling Uncertainty in Group Recommendations",
+         "year": "2019",
+         "venue": "UMAP"
+      },
+      {
+         "id": 122,
+         "label": "10.1145/3331184.3331251",
+         "title": "Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation",
+         "year": "2019",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 124,
+         "label": "Du_2020",
+         "title": "GERF: A Group Event Recommendation Framework Based on Learning-to-Rank",
+         "year": "2020",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 125,
+         "label": "Du_2020",
+         "title": "CVTM: A Content-Venue-Aware Topic Model for Group Event Recommendation",
+         "year": "2020",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 127,
+         "label": "Wang_2019",
+         "title": "Group Recommendation via Self-Attention and Collaborative Metric Learning Model",
+         "year": "2019",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 128,
+         "label": "He_2019",
+         "title": "GRADI: Towards Group Recommendation Using Attentive Dual Top-Down and Bottom-Up Influences",
+         "year": "2019",
+         "venue": "BigData"
+      },
+      {
+         "id": 129,
+         "label": "Dara_2019",
+         "title": "A study on the role of flexible preferences in group recommendations",
+         "year": "2019",
+         "venue": "Applied Intelligence"
+      },
+      {
+         "id": 130,
+         "label": "Logesh_2018",
+         "title": "Efficient User Profiling Based Intelligent Travel Recommender System for Individual and Group of Users",
+         "year": "2018",
+         "venue": "Mobile Networks and Applications"
+      },
+      {
+         "id": 131,
+         "label": "Choudhary_2018",
+         "title": "Evolutionary learning approach to multi-agent negotiation for group recommender systems",
+         "year": "2018",
+         "venue": "Multimedia Tools and Applications"
+      },
+      {
+         "id": 132,
+         "label": "7c9bd078ab504f9ba94dcc4322f8acfa",
+         "title": "Towards creating a non-synthetic group recommendation dataset",
+         "year": "2019",
+         "venue": "RecSys"
+      },
+      {
+         "id": 133,
+         "label": "Hu_2019",
+         "title": "AGREE: Attention-Based Tour Group Recommendation with Multi-modal Data",
+         "year": "2019",
+         "venue": "DASFAA"
+      },
+      {
+         "id": 134,
+         "label": "Hannula_2019",
+         "title": "GameRecs: Video Games Group Recommendations",
+         "year": "2019",
+         "venue": "ADBIS"
+      },
+      {
+         "id": 135,
+         "label": "Feng_2019",
+         "title": "Detecting the latent associations hidden in multi-source information for better group recommendation",
+         "year": "2019",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 136,
+         "label": "Jeong_2019",
+         "title": "HGGC: A hybrid group recommendation model considering group cohesion",
+         "year": "2019",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 137,
+         "label": "Girdhar_2023",
+         "title": "Can we please everyone? Group recommendations in signed social networks",
+         "year": "2023",
+         "venue": "Multimedia Tools and Applications"
+      }
+   ],
+   "links": [
+      {
+         "source": 8,
+         "target": 34,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['spgreedy', 'efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 8,
+         "target": 37,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['greedyvar']"
+      },
+      {
+         "source": 8,
+         "target": 41,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['spgreedy', 'efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 8,
+         "target": 54,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['spgreedy']"
+      },
+      {
+         "source": 8,
+         "target": 55,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['spgreedy']"
+      },
+      {
+         "source": 8,
+         "target": 79,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['spgreedy']"
+      },
+      {
+         "source": 8,
+         "target": 87,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['spgreedy', 'efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 8,
+         "target": 88,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['spgreedy']"
+      },
+      {
+         "source": 8,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 1.8181818181818183,
+         "label": "['efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 8,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 7.5,
+         "label": "['spgreedy', 'efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 10,
+         "target": 15,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 27,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 29,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 32,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 33,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 53,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com']"
+      },
+      {
+         "source": 10,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['com']"
+      },
+      {
+         "source": 14,
+         "target": 15,
+         "type": "same_baseliens",
+         "value": 1.8181818181818183,
+         "label": "['game', 'agree']"
+      },
+      {
+         "source": 14,
+         "target": 27,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 14,
+         "target": 29,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 14,
+         "target": 31,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 14,
+         "target": 53,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 60,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['groupim', 'agree']"
+      },
+      {
+         "source": 14,
+         "target": 69,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['game']"
+      },
+      {
+         "source": 14,
+         "target": 70,
+         "type": "same_baseliens",
+         "value": 8.0,
+         "label": "['game', 'kgag', 'agree', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 71,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['agree', 'groupim', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 14,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['agree', 'groupim', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['game', 'agree']"
+      },
+      {
+         "source": 14,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['agree', 'game', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 14,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 1.8181818181818183,
+         "label": "['groupim', 'agree']"
+      },
+      {
+         "source": 14,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['groupim', 'agree']"
+      },
+      {
+         "source": 14,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['agree', 'groupim', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 86,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['mosan']"
+      },
+      {
+         "source": 14,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 14,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 14,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 4.444444444444445,
+         "label": "['agree', 'game', 'groupim', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['mosan']"
+      },
+      {
+         "source": 14,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['mosan']"
+      },
+      {
+         "source": 14,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['game', 'agree']"
+      },
+      {
+         "source": 14,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 14,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 14,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 14,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 14,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 27,
+         "type": "same_baseliens",
+         "value": 3.0,
+         "label": "['soagree', 'com', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 29,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 31,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['pit', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 32,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['com', 'popularity']"
+      },
+      {
+         "source": 15,
+         "target": 33,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 15,
+         "target": 53,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 60,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['agree']"
+      },
+      {
+         "source": 15,
+         "target": 69,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['game']"
+      },
+      {
+         "source": 15,
+         "target": 70,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['game', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 71,
+         "type": "same_baseliens",
+         "value": 1.8181818181818183,
+         "label": "['sigr', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 2.727272727272727,
+         "label": "['soagree', 'com', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 7.5,
+         "label": "['agree', 'groupsa', 'game', 'sigr', 'popularity', 'com']"
+      },
+      {
+         "source": 15,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 2.727272727272727,
+         "label": "['game', 'com', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['agree', 'groupsa', 'sigr', 'pit', 'popularity', 'com']"
+      },
+      {
+         "source": 15,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['sigr', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 2.727272727272727,
+         "label": "['popularity', 'sigr', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 15,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 4.444444444444445,
+         "label": "['soagree', 'popularity', 'com', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 2.307692307692308,
+         "label": "['game', 'sigr', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['soagree', 'popularity', 'com', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['com', 'pit']"
+      },
+      {
+         "source": 15,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 15,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree', 'game', 'pit', 'soagree', 'com']"
+      },
+      {
+         "source": 15,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 15,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 3.0,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['popularity', 'sigr', 'agree']"
+      },
+      {
+         "source": 15,
+         "target": 111,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['groupsa', 'sigr']"
+      },
+      {
+         "source": 15,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.625,
+         "label": "['com']"
+      },
+      {
+         "source": 15,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['com', 'pit']"
+      },
+      {
+         "source": 15,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 15,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['com']"
+      },
+      {
+         "source": 15,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 15,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 15,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 16,
+         "target": 68,
+         "type": "same_baseliens",
+         "value": 10.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 16,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 16,
+         "target": 102,
+         "type": "same_baseliens",
+         "value": 10.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 16,
+         "target": 113,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 16,
+         "target": 120,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 16,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 27,
+         "target": 29,
+         "type": "same_baseliens",
+         "value": 8.0,
+         "label": "['mosan', 'dpmf-cnn', 'com', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 31,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 27,
+         "target": 32,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 27,
+         "target": 33,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 27,
+         "target": 53,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['agree', 'com', 'mosan']"
+      },
+      {
+         "source": 27,
+         "target": 60,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 27,
+         "target": 70,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 27,
+         "target": 71,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 27,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 5.7142857142857135,
+         "label": "['mosan', 'soagree', 'com', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['mosan', 'com', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 27,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 1.8181818181818183,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 27,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 86,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['mosan']"
+      },
+      {
+         "source": 27,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 27,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['soagree', 'com', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 1.8181818181818183,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 5.7142857142857135,
+         "label": "['mosan', 'soagree', 'com', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 27,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 27,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['soagree', 'com', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['agree', 'com', 'mosan']"
+      },
+      {
+         "source": 27,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 27,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 27,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.7692307692307693,
+         "label": "['com']"
+      },
+      {
+         "source": 27,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 27,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 27,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 27,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 27,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 27,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 29,
+         "target": 31,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 29,
+         "target": 32,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 29,
+         "target": 33,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 29,
+         "target": 53,
+         "type": "same_baseliens",
+         "value": 7.5,
+         "label": "['agree', 'com', 'mosan']"
+      },
+      {
+         "source": 29,
+         "target": 60,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 29,
+         "target": 70,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 29,
+         "target": 71,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['mosan', 'com', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['mosan', 'com', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 29,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 29,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 86,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['mosan']"
+      },
+      {
+         "source": 29,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 29,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['mosan', 'com', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 29,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 29,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['mosan', 'com', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 29,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 29,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.8333333333333333,
+         "label": "['com']"
+      },
+      {
+         "source": 29,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 29,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 29,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 29,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 29,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 29,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 31,
+         "target": 53,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 60,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 70,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 71,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['pit', 'agree']"
+      },
+      {
+         "source": 31,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['pit']"
+      },
+      {
+         "source": 31,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['pit', 'agree']"
+      },
+      {
+         "source": 31,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['pit']"
+      },
+      {
+         "source": 31,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 31,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 32,
+         "target": 33,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 32,
+         "target": 53,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 32,
+         "target": 65,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 32,
+         "target": 66,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 32,
+         "target": 69,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 32,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['com', 'popularity']"
+      },
+      {
+         "source": 32,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['indivrs-groups-data', 'com']"
+      },
+      {
+         "source": 32,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'popularity']"
+      },
+      {
+         "source": 32,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['indivrs-groups-data', 'com']"
+      },
+      {
+         "source": 32,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['popularity']"
+      },
+      {
+         "source": 32,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['indivrs-groups-data', 'com', 'popularity']"
+      },
+      {
+         "source": 32,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['indivrs-groups-data', 'popularity']"
+      },
+      {
+         "source": 32,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['indivrs-groups-data', 'com', 'popularity']"
+      },
+      {
+         "source": 32,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'com', 'popularity']"
+      },
+      {
+         "source": 32,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 32,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 32,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 32,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com', 'popularity']"
+      },
+      {
+         "source": 32,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['popularity']"
+      },
+      {
+         "source": 32,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['indivrs-groups-data', 'popularity']"
+      },
+      {
+         "source": 32,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 32,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 32,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 32,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 32,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 32,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 53,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 93,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['rp80']"
+      },
+      {
+         "source": 33,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.8333333333333333,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 33,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 34,
+         "target": 37,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['greedyvar']"
+      },
+      {
+         "source": 34,
+         "target": 41,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['spgreedy', 'efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 34,
+         "target": 54,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['spgreedy', 'greedylm']"
+      },
+      {
+         "source": 34,
+         "target": 55,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['spgreedy', 'greedylm']"
+      },
+      {
+         "source": 34,
+         "target": 61,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 34,
+         "target": 79,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['spgreedy', 'greedylm']"
+      },
+      {
+         "source": 34,
+         "target": 87,
+         "type": "same_baseliens",
+         "value": 8.0,
+         "label": "['efgreedy', 'spgreedy', 'greedylm', 'greedyvar']"
+      },
+      {
+         "source": 34,
+         "target": 88,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['spgreedy', 'greedylm']"
+      },
+      {
+         "source": 34,
+         "target": 93,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 34,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 3.0,
+         "label": "['efgreedy', 'greedylm', 'greedyvar']"
+      },
+      {
+         "source": 34,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 7.5,
+         "label": "['spgreedy', 'efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 37,
+         "target": 41,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['greedyvar']"
+      },
+      {
+         "source": 37,
+         "target": 87,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['greedyvar']"
+      },
+      {
+         "source": 37,
+         "target": 92,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['grod', 'mc-gr', 'pr-grs']"
+      },
+      {
+         "source": 37,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.7692307692307693,
+         "label": "['greedyvar']"
+      },
+      {
+         "source": 37,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['greedyvar']"
+      },
+      {
+         "source": 41,
+         "target": 54,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['spgreedy', 'gfar']"
+      },
+      {
+         "source": 41,
+         "target": 55,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['spgreedy']"
+      },
+      {
+         "source": 41,
+         "target": 61,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['gfar']"
+      },
+      {
+         "source": 41,
+         "target": 62,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['gfar']"
+      },
+      {
+         "source": 41,
+         "target": 79,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['spgreedy', 'gfar']"
+      },
+      {
+         "source": 41,
+         "target": 87,
+         "type": "same_baseliens",
+         "value": 8.0,
+         "label": "['spgreedy', 'gfar', 'efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 41,
+         "target": 88,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['spgreedy', 'gfar']"
+      },
+      {
+         "source": 41,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 1.8181818181818183,
+         "label": "['efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 41,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 7.5,
+         "label": "['spgreedy', 'efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 53,
+         "target": 60,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 53,
+         "target": 70,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 71,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 53,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree', 'com', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 53,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree', 'com', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 53,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 53,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 53,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 86,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan']"
+      },
+      {
+         "source": 53,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 53,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 53,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree', 'com', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 53,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 53,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['agree', 'com', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 53,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 53,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 53,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 53,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 53,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 53,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree']"
+      },
+      {
+         "source": 53,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 53,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 54,
+         "target": 55,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['spgreedy', 'greedylm', 'xpo']"
+      },
+      {
+         "source": 54,
+         "target": 61,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['gfar', 'greedylm']"
+      },
+      {
+         "source": 54,
+         "target": 62,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['gfar']"
+      },
+      {
+         "source": 54,
+         "target": 79,
+         "type": "same_baseliens",
+         "value": 7.142857142857143,
+         "label": "['fuzzda', 'spgreedy', 'gfar', 'greedylm', 'xpo']"
+      },
+      {
+         "source": 54,
+         "target": 87,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['spgreedy', 'gfar', 'greedylm']"
+      },
+      {
+         "source": 54,
+         "target": 88,
+         "type": "same_baseliens",
+         "value": 8.333333333333334,
+         "label": "['fuzzda', 'spgreedy', 'gfar', 'greedylm', 'xpo']"
+      },
+      {
+         "source": 54,
+         "target": 93,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 54,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.7692307692307693,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 54,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['spgreedy']"
+      },
+      {
+         "source": 55,
+         "target": 61,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['fai', 'greedylm']"
+      },
+      {
+         "source": 55,
+         "target": 79,
+         "type": "same_baseliens",
+         "value": 5.7142857142857135,
+         "label": "['fai', 'spgreedy', 'greedylm', 'xpo']"
+      },
+      {
+         "source": 55,
+         "target": 87,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['spgreedy', 'greedylm']"
+      },
+      {
+         "source": 55,
+         "target": 88,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['spgreedy', 'greedylm', 'xpo']"
+      },
+      {
+         "source": 55,
+         "target": 93,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 55,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.8333333333333333,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 55,
+         "target": 120,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['fai']"
+      },
+      {
+         "source": 55,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['spgreedy']"
+      },
+      {
+         "source": 60,
+         "target": 70,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 71,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['groupim', 'agree']"
+      },
+      {
+         "source": 60,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['groupim', 'agree']"
+      },
+      {
+         "source": 60,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['groupim', 'agree']"
+      },
+      {
+         "source": 60,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['groupim', 'agree']"
+      },
+      {
+         "source": 60,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['groupim', 'agree']"
+      },
+      {
+         "source": 60,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree', 'graph-convolution', 'groupim', 'hhgr']"
+      },
+      {
+         "source": 60,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 60,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 61,
+         "target": 62,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['gfar']"
+      },
+      {
+         "source": 61,
+         "target": 79,
+         "type": "same_baseliens",
+         "value": 5.7142857142857135,
+         "label": "['fai', 'gfar', 'greedylm', 'ep-fuzzda']"
+      },
+      {
+         "source": 61,
+         "target": 87,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['gfar', 'greedylm']"
+      },
+      {
+         "source": 61,
+         "target": 88,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['gfar', 'greedylm', 'ep-fuzzda']"
+      },
+      {
+         "source": 61,
+         "target": 93,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 61,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.8333333333333333,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 61,
+         "target": 120,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['fai']"
+      },
+      {
+         "source": 62,
+         "target": 79,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['gfar']"
+      },
+      {
+         "source": 62,
+         "target": 87,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['gfar']"
+      },
+      {
+         "source": 62,
+         "target": 88,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['gfar']"
+      },
+      {
+         "source": 65,
+         "target": 66,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 65,
+         "target": 69,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 65,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 65,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 65,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 65,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 65,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 65,
+         "target": 95,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['infl_cmean', 'infl']"
+      },
+      {
+         "source": 65,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 65,
+         "target": 99,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['infl']"
+      },
+      {
+         "source": 65,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 65,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 66,
+         "target": 69,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 66,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 66,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 66,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 66,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 66,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 66,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 66,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 66,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 68,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 68,
+         "target": 102,
+         "type": "same_baseliens",
+         "value": 10.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 68,
+         "target": 113,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 68,
+         "target": 120,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 68,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 69,
+         "target": 70,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['game']"
+      },
+      {
+         "source": 69,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 69,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['game']"
+      },
+      {
+         "source": 69,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['indivrs-groups-data', 'game']"
+      },
+      {
+         "source": 69,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 69,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 69,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 69,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['game']"
+      },
+      {
+         "source": 69,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 69,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['game']"
+      },
+      {
+         "source": 69,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['gradi']"
+      },
+      {
+         "source": 69,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 69,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['indivrs-groups-data']"
+      },
+      {
+         "source": 70,
+         "target": 71,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 70,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 70,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 70,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['game', 'agree']"
+      },
+      {
+         "source": 70,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['game', 'agree', 'mosan']"
+      },
+      {
+         "source": 70,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 70,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['agree']"
+      },
+      {
+         "source": 70,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 70,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 70,
+         "target": 86,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['mosan']"
+      },
+      {
+         "source": 70,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 70,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 70,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['game', 'agree', 'mosan']"
+      },
+      {
+         "source": 70,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 70,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['mosan']"
+      },
+      {
+         "source": 70,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['mosan']"
+      },
+      {
+         "source": 70,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['game', 'agree']"
+      },
+      {
+         "source": 70,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 70,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 70,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 70,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 70,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 70,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 71,
+         "target": 73,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 71,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['agree', 'groupim', 'mosan']"
+      },
+      {
+         "source": 71,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['sigr', 'agree']"
+      },
+      {
+         "source": 71,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 71,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 71,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 3.0,
+         "label": "['sigr', 'groupim', 'agree']"
+      },
+      {
+         "source": 71,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['sigr', 'groupim', 'agree']"
+      },
+      {
+         "source": 71,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 5.7142857142857135,
+         "label": "['agree', 'sigr', 'groupim', 'mosan']"
+      },
+      {
+         "source": 71,
+         "target": 86,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['mosan']"
+      },
+      {
+         "source": 71,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 71,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 71,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 4.444444444444445,
+         "label": "['agree', 'sigr', 'groupim', 'mosan']"
+      },
+      {
+         "source": 71,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 71,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['mosan']"
+      },
+      {
+         "source": 71,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['mosan']"
+      },
+      {
+         "source": 71,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['agree']"
+      },
+      {
+         "source": 71,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 71,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 71,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 71,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['sigr', 'agree']"
+      },
+      {
+         "source": 71,
+         "target": 111,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['sa-ncf', 'sigr']"
+      },
+      {
+         "source": 71,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 71,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 75,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 6.666666666666666,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 73,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 73,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 73,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 73,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 73,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 73,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 73,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 73,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 73,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 73,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 73,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree']"
+      },
+      {
+         "source": 73,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 73,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 75,
+         "target": 77,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 75,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'agree', 'com', 'mosan']"
+      },
+      {
+         "source": 75,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 75,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['indivrs-groups-data', 'com', 'groupim', 'agree']"
+      },
+      {
+         "source": 75,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['groupim', 'agree']"
+      },
+      {
+         "source": 75,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'agree', 'groupim', 'mosan']"
+      },
+      {
+         "source": 75,
+         "target": 86,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['mosan']"
+      },
+      {
+         "source": 75,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 75,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 5.7142857142857135,
+         "label": "['indivrs-groups-data', 'soagree', 'com', 'agree']"
+      },
+      {
+         "source": 75,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 2.727272727272727,
+         "label": "['agree', 'groupim', 'mosan']"
+      },
+      {
+         "source": 75,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 7.142857142857143,
+         "label": "['indivrs-groups-data', 'agree', 'mosan', 'soagree', 'com']"
+      },
+      {
+         "source": 75,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 75,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 75,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 3.0,
+         "label": "['soagree', 'com', 'agree']"
+      },
+      {
+         "source": 75,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 75,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['agree', 'com', 'mosan']"
+      },
+      {
+         "source": 75,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 75,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['indivrs-groups-data', 'agree']"
+      },
+      {
+         "source": 75,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.7142857142857142,
+         "label": "['com']"
+      },
+      {
+         "source": 75,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 75,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 75,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 75,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 75,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'mosan', 'agree']"
+      },
+      {
+         "source": 75,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 77,
+         "target": 78,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['game', 'com', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 5.555555555555555,
+         "label": "['agree', 'groupsa', 'sigr', 'popularity', 'com']"
+      },
+      {
+         "source": 77,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['sigr', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['popularity', 'sigr', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 77,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 2.727272727272727,
+         "label": "['game', 'sigr', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 77,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 77,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 3.0,
+         "label": "['game', 'com', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 77,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['popularity', 'sigr', 'agree']"
+      },
+      {
+         "source": 77,
+         "target": 111,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['groupsa', 'sigr']"
+      },
+      {
+         "source": 77,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.7142857142857142,
+         "label": "['com']"
+      },
+      {
+         "source": 77,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 77,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 77,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 77,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 77,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 77,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 78,
+         "target": 81,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 78,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 2.727272727272727,
+         "label": "['indivrs-groups-data', 'com', 'agree']"
+      },
+      {
+         "source": 78,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 78,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['indivrs-groups-data', 'agree', 'mosan']"
+      },
+      {
+         "source": 78,
+         "target": 86,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['mosan']"
+      },
+      {
+         "source": 78,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 78,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['indivrs-groups-data', 'com', 'agree']"
+      },
+      {
+         "source": 78,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 2.727272727272727,
+         "label": "['agree', 'game', 'mosan']"
+      },
+      {
+         "source": 78,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'agree', 'com', 'mosan']"
+      },
+      {
+         "source": 78,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 78,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 78,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 3.0,
+         "label": "['game', 'com', 'agree']"
+      },
+      {
+         "source": 78,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 78,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['agree', 'com', 'mosan']"
+      },
+      {
+         "source": 78,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 78,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['indivrs-groups-data', 'agree']"
+      },
+      {
+         "source": 78,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.7142857142857142,
+         "label": "['com']"
+      },
+      {
+         "source": 78,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 78,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 78,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 78,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 78,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'mosan', 'agree']"
+      },
+      {
+         "source": 78,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 79,
+         "target": 87,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['spgreedy', 'gfar', 'greedylm']"
+      },
+      {
+         "source": 79,
+         "target": 88,
+         "type": "same_baseliens",
+         "value": 8.571428571428571,
+         "label": "['fuzzda', 'spgreedy', 'gfar', 'greedylm', 'xpo', 'ep-fuzzda']"
+      },
+      {
+         "source": 79,
+         "target": 93,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 79,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.6666666666666666,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 79,
+         "target": 120,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['fai']"
+      },
+      {
+         "source": 79,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['spgreedy']"
+      },
+      {
+         "source": 81,
+         "target": 82,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 81,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 81,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 81,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree']"
+      },
+      {
+         "source": 81,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 81,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 81,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 81,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 81,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 81,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 81,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 6.666666666666666,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 81,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 81,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 81,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 82,
+         "target": 83,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['sigr', 'groupim', 'agree']"
+      },
+      {
+         "source": 82,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 5.555555555555555,
+         "label": "['indivrs-groups-data', 'agree', 'sigr', 'popularity', 'groupim']"
+      },
+      {
+         "source": 82,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 82,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 4.444444444444445,
+         "label": "['indivrs-groups-data', 'popularity', 'com', 'agree']"
+      },
+      {
+         "source": 82,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 2.307692307692308,
+         "label": "['sigr', 'groupim', 'agree']"
+      },
+      {
+         "source": 82,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['indivrs-groups-data', 'popularity', 'com', 'agree']"
+      },
+      {
+         "source": 82,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['com', 'pit']"
+      },
+      {
+         "source": 82,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 82,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com', 'pit', 'agree']"
+      },
+      {
+         "source": 82,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 82,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 3.0,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 82,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 82,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'popularity', 'sigr', 'agree']"
+      },
+      {
+         "source": 82,
+         "target": 111,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['groupsa', 'sigr']"
+      },
+      {
+         "source": 82,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.625,
+         "label": "['com']"
+      },
+      {
+         "source": 82,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['com', 'pit']"
+      },
+      {
+         "source": 82,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 82,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['com']"
+      },
+      {
+         "source": 82,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 82,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['indivrs-groups-data', 'agree']"
+      },
+      {
+         "source": 82,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['com']"
+      },
+      {
+         "source": 83,
+         "target": 84,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['sigr', 'groupim', 'agree']"
+      },
+      {
+         "source": 83,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 83,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 83,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['sigr', 'groupim', 'agree']"
+      },
+      {
+         "source": 83,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 83,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['cagr', 'agree']"
+      },
+      {
+         "source": 83,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 83,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 83,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 83,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['sigr', 'agree']"
+      },
+      {
+         "source": 83,
+         "target": 111,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['sigr']"
+      },
+      {
+         "source": 83,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 83,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 84,
+         "target": 86,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['mosan']"
+      },
+      {
+         "source": 84,
+         "target": 89,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 84,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['indivrs-groups-data', 'popularity', 'agree']"
+      },
+      {
+         "source": 84,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['agree', 'sigr', 'groupim', 'mosan']"
+      },
+      {
+         "source": 84,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'agree', 'popularity', 'mosan']"
+      },
+      {
+         "source": 84,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['mosan']"
+      },
+      {
+         "source": 84,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['mosan']"
+      },
+      {
+         "source": 84,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 0.8333333333333333,
+         "label": "['agree']"
+      },
+      {
+         "source": 84,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 84,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['agree', 'popularity', 'mosan']"
+      },
+      {
+         "source": 84,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree', 'popularity', 'mosan']"
+      },
+      {
+         "source": 84,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 6.666666666666666,
+         "label": "['indivrs-groups-data', 'popularity', 'sigr', 'agree']"
+      },
+      {
+         "source": 84,
+         "target": 111,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['sigr']"
+      },
+      {
+         "source": 84,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 84,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'mosan', 'agree']"
+      },
+      {
+         "source": 86,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['mosan']"
+      },
+      {
+         "source": 86,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['mosan']"
+      },
+      {
+         "source": 86,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan']"
+      },
+      {
+         "source": 86,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['mosan']"
+      },
+      {
+         "source": 86,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan']"
+      },
+      {
+         "source": 86,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['mosan']"
+      },
+      {
+         "source": 86,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan']"
+      },
+      {
+         "source": 86,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan']"
+      },
+      {
+         "source": 87,
+         "target": 88,
+         "type": "same_baseliens",
+         "value": 3.75,
+         "label": "['spgreedy', 'gfar', 'greedylm']"
+      },
+      {
+         "source": 87,
+         "target": 93,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 87,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 2.727272727272727,
+         "label": "['efgreedy', 'greedylm', 'greedyvar']"
+      },
+      {
+         "source": 87,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['spgreedy', 'efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 88,
+         "target": 93,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 88,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.7142857142857142,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 88,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['spgreedy']"
+      },
+      {
+         "source": 89,
+         "target": 91,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 89,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 89,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 89,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 89,
+         "target": 102,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 89,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 89,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 89,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 89,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 89,
+         "target": 113,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 89,
+         "target": 120,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 89,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 89,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 89,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 91,
+         "target": 94,
+         "type": "same_baseliens",
+         "value": 0.8333333333333333,
+         "label": "['agree']"
+      },
+      {
+         "source": 91,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 8.333333333333334,
+         "label": "['indivrs-groups-data', 'agree', 'popularity', 'soagree', 'com']"
+      },
+      {
+         "source": 91,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 91,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 91,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['soagree', 'com', 'agree']"
+      },
+      {
+         "source": 91,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 91,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['popularity', 'com', 'agree']"
+      },
+      {
+         "source": 91,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 91,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'popularity', 'agree']"
+      },
+      {
+         "source": 91,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.7692307692307693,
+         "label": "['com']"
+      },
+      {
+         "source": 91,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 91,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 91,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 91,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 91,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['indivrs-groups-data', 'agree']"
+      },
+      {
+         "source": 91,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 93,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['greedylm']"
+      },
+      {
+         "source": 94,
+         "target": 96,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 94,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['mosan']"
+      },
+      {
+         "source": 94,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['mosan']"
+      },
+      {
+         "source": 94,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 1.5384615384615385,
+         "label": "['game', 'agree']"
+      },
+      {
+         "source": 94,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 94,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 1.8181818181818183,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 94,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 94,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['sigr', 'agree']"
+      },
+      {
+         "source": 94,
+         "target": 111,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['sigr']"
+      },
+      {
+         "source": 94,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['agree']"
+      },
+      {
+         "source": 94,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 95,
+         "target": 99,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['infl']"
+      },
+      {
+         "source": 96,
+         "target": 97,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 96,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 96,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 3.0,
+         "label": "['soagree', 'com', 'agree']"
+      },
+      {
+         "source": 96,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 96,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 5.7142857142857135,
+         "label": "['agree', 'popularity', 'com', 'mosan']"
+      },
+      {
+         "source": 96,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree', 'popularity', 'mosan']"
+      },
+      {
+         "source": 96,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 4.285714285714286,
+         "label": "['indivrs-groups-data', 'popularity', 'agree']"
+      },
+      {
+         "source": 96,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.7142857142857142,
+         "label": "['com']"
+      },
+      {
+         "source": 96,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 96,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 96,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.25,
+         "label": "['com']"
+      },
+      {
+         "source": 96,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 96,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['indivrs-groups-data', 'mosan', 'agree']"
+      },
+      {
+         "source": 96,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 97,
+         "target": 98,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 97,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com', 'pit']"
+      },
+      {
+         "source": 97,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['mosan']"
+      },
+      {
+         "source": 97,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 97,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['mosan']"
+      },
+      {
+         "source": 97,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 97,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['com', 'pit']"
+      },
+      {
+         "source": 97,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 97,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 97,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['mosan']"
+      },
+      {
+         "source": 97,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 98,
+         "target": 100,
+         "type": "same_baseliens",
+         "value": 2.2222222222222223,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 98,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['mosan']"
+      },
+      {
+         "source": 98,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['com', 'mosan']"
+      },
+      {
+         "source": 98,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['mosan']"
+      },
+      {
+         "source": 98,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.8333333333333333,
+         "label": "['com']"
+      },
+      {
+         "source": 98,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 98,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 98,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 98,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['mosan']"
+      },
+      {
+         "source": 98,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 100,
+         "target": 103,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 100,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com', 'agree']"
+      },
+      {
+         "source": 100,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 100,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 100,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 0.6666666666666666,
+         "label": "['com']"
+      },
+      {
+         "source": 100,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com', 'pit']"
+      },
+      {
+         "source": 100,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 100,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 100,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['agree']"
+      },
+      {
+         "source": 100,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['agree']"
+      },
+      {
+         "source": 100,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 102,
+         "target": 113,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 102,
+         "target": 120,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 102,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 103,
+         "target": 104,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 103,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['agree', 'mosan']"
+      },
+      {
+         "source": 103,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['agree']"
+      },
+      {
+         "source": 103,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree']"
+      },
+      {
+         "source": 103,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 104,
+         "target": 105,
+         "type": "same_baseliens",
+         "value": 6.0,
+         "label": "['agree', 'popularity', 'mosan']"
+      },
+      {
+         "source": 104,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 2.8571428571428568,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 104,
+         "target": 117,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['crowdrec', 'com']"
+      },
+      {
+         "source": 104,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 104,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 104,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['com']"
+      },
+      {
+         "source": 104,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['agree']"
+      },
+      {
+         "source": 104,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 104,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.6666666666666665,
+         "label": "['com']"
+      },
+      {
+         "source": 105,
+         "target": 108,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['popularity', 'agree']"
+      },
+      {
+         "source": 105,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree']"
+      },
+      {
+         "source": 105,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 5.0,
+         "label": "['mosan', 'agree']"
+      },
+      {
+         "source": 108,
+         "target": 111,
+         "type": "same_baseliens",
+         "value": 1.4285714285714284,
+         "label": "['sigr']"
+      },
+      {
+         "source": 108,
+         "target": 127,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['agree']"
+      },
+      {
+         "source": 108,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 4.0,
+         "label": "['indivrs-groups-data', 'agree']"
+      },
+      {
+         "source": 113,
+         "target": 120,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 113,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 117,
+         "target": 118,
+         "type": "same_baseliens",
+         "value": 1.1111111111111112,
+         "label": "['trust-based']"
+      },
+      {
+         "source": 117,
+         "target": 121,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['efgreedy', 'greedyvar']"
+      },
+      {
+         "source": 117,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 117,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['com']"
+      },
+      {
+         "source": 117,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 0.9090909090909092,
+         "label": "['com']"
+      },
+      {
+         "source": 117,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 1.0,
+         "label": "['com']"
+      },
+      {
+         "source": 120,
+         "target": 122,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['profile-aggregation']"
+      },
+      {
+         "source": 122,
+         "target": 124,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 122,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 2.0,
+         "label": "['com']"
+      },
+      {
+         "source": 122,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 2.5,
+         "label": "['com']"
+      },
+      {
+         "source": 124,
+         "target": 125,
+         "type": "same_baseliens",
+         "value": 6.666666666666666,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 124,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 10.0,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 125,
+         "target": 136,
+         "type": "same_baseliens",
+         "value": 6.666666666666666,
+         "label": "['hbgg', 'com']"
+      },
+      {
+         "source": 127,
+         "target": 128,
+         "type": "same_baseliens",
+         "value": 3.333333333333333,
+         "label": "['agree']"
+      }
+   ]
+}
