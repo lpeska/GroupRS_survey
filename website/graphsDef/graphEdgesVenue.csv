@@ -1,0 +1,134 @@
+;source;target;type;value;label
+0;1;16;same_venue;10.0;Knowledge-Based Systems
+1;1;98;same_venue;10.0;Knowledge-Based Systems
+2;1;135;same_venue;10.0;Knowledge-Based Systems
+3;2;23;same_venue;10.0;Decision Support Systems
+4;2;50;same_venue;10.0;Decision Support Systems
+5;2;73;same_venue;10.0;Decision Support Systems
+6;3;17;same_venue;10.0;Expert Systems with Applications
+7;3;37;same_venue;10.0;Expert Systems with Applications
+8;3;47;same_venue;10.0;Expert Systems with Applications
+9;3;48;same_venue;10.0;Expert Systems with Applications
+10;3;64;same_venue;10.0;Expert Systems with Applications
+11;3;65;same_venue;10.0;Expert Systems with Applications
+12;3;80;same_venue;10.0;Expert Systems with Applications
+13;3;99;same_venue;10.0;Expert Systems with Applications
+14;3;136;same_venue;10.0;Expert Systems with Applications
+15;4;101;same_venue;10.0;"Information Processing &amp; Management"
+16;6;27;same_venue;10.0;IEEE Transactions on Systems, Man, and Cybernetics: Systems
+17;14;81;same_venue;10.0;CIKM
+18;14;84;same_venue;10.0;CIKM
+19;15;43;same_venue;10.0;Information Sciences
+20;15;74;same_venue;10.0;Information Sciences
+21;15;75;same_venue;10.0;Information Sciences
+22;15;96;same_venue;10.0;Information Sciences
+23;15;100;same_venue;10.0;Information Sciences
+24;16;98;same_venue;10.0;Knowledge-Based Systems
+25;16;135;same_venue;10.0;Knowledge-Based Systems
+26;17;37;same_venue;10.0;Expert Systems with Applications
+27;17;47;same_venue;10.0;Expert Systems with Applications
+28;17;48;same_venue;10.0;Expert Systems with Applications
+29;17;64;same_venue;10.0;Expert Systems with Applications
+30;17;65;same_venue;10.0;Expert Systems with Applications
+31;17;80;same_venue;10.0;Expert Systems with Applications
+32;17;99;same_venue;10.0;Expert Systems with Applications
+33;17;136;same_venue;10.0;Expert Systems with Applications
+34;21;82;same_venue;10.0;ACM Transactions on Information Systems
+35;23;50;same_venue;10.0;Decision Support Systems
+36;23;73;same_venue;10.0;Decision Support Systems
+37;29;69;same_venue;10.0;IEEE Transactions on Neural Networks and Learning Systems
+38;30;115;same_venue;10.0;Multimedia Tools and Applications
+39;30;131;same_venue;10.0;Multimedia Tools and Applications
+40;30;137;same_venue;10.0;Multimedia Tools and Applications
+41;31;86;same_venue;10.0;ICDE
+42;31;108;same_venue;10.0;ICDE
+43;32;33;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+44;32;111;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+45;32;124;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+46;32;125;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+47;33;111;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+48;33;124;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+49;33;125;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+50;34;51;same_venue;10.0;RecSys
+51;34;55;same_venue;10.0;RecSys
+52;34;79;same_venue;10.0;RecSys
+53;34;120;same_venue;10.0;RecSys
+54;34;132;same_venue;10.0;RecSys
+55;37;47;same_venue;10.0;Expert Systems with Applications
+56;37;48;same_venue;10.0;Expert Systems with Applications
+57;37;64;same_venue;10.0;Expert Systems with Applications
+58;37;65;same_venue;10.0;Expert Systems with Applications
+59;37;80;same_venue;10.0;Expert Systems with Applications
+60;37;99;same_venue;10.0;Expert Systems with Applications
+61;37;136;same_venue;10.0;Expert Systems with Applications
+62;40;127;same_venue;10.0;IEEE Access
+63;43;74;same_venue;10.0;Information Sciences
+64;43;75;same_venue;10.0;Information Sciences
+65;43;96;same_venue;10.0;Information Sciences
+66;43;100;same_venue;10.0;Information Sciences
+67;44;70;same_venue;10.0;IEEE Intelligent Systems
+68;47;48;same_venue;10.0;Expert Systems with Applications
+69;47;64;same_venue;10.0;Expert Systems with Applications
+70;47;65;same_venue;10.0;Expert Systems with Applications
+71;47;80;same_venue;10.0;Expert Systems with Applications
+72;47;99;same_venue;10.0;Expert Systems with Applications
+73;47;136;same_venue;10.0;Expert Systems with Applications
+74;48;64;same_venue;10.0;Expert Systems with Applications
+75;48;65;same_venue;10.0;Expert Systems with Applications
+76;48;80;same_venue;10.0;Expert Systems with Applications
+77;48;99;same_venue;10.0;Expert Systems with Applications
+78;48;136;same_venue;10.0;Expert Systems with Applications
+79;50;73;same_venue;10.0;Decision Support Systems
+80;51;55;same_venue;10.0;RecSys
+81;51;79;same_venue;10.0;RecSys
+82;51;120;same_venue;10.0;RecSys
+83;51;132;same_venue;10.0;RecSys
+84;54;61;same_venue;10.0;UMAP
+85;54;88;same_venue;10.0;UMAP
+86;54;121;same_venue;10.0;UMAP
+87;55;79;same_venue;10.0;RecSys
+88;55;120;same_venue;10.0;RecSys
+89;55;132;same_venue;10.0;RecSys
+90;60;87;same_venue;10.0;WSDM
+91;61;88;same_venue;10.0;UMAP
+92;61;121;same_venue;10.0;UMAP
+93;64;65;same_venue;10.0;Expert Systems with Applications
+94;64;80;same_venue;10.0;Expert Systems with Applications
+95;64;99;same_venue;10.0;Expert Systems with Applications
+96;64;136;same_venue;10.0;Expert Systems with Applications
+97;65;80;same_venue;10.0;Expert Systems with Applications
+98;65;99;same_venue;10.0;Expert Systems with Applications
+99;65;136;same_venue;10.0;Expert Systems with Applications
+100;74;75;same_venue;10.0;Information Sciences
+101;74;96;same_venue;10.0;Information Sciences
+102;74;100;same_venue;10.0;Information Sciences
+103;75;96;same_venue;10.0;Information Sciences
+104;75;100;same_venue;10.0;Information Sciences
+105;79;120;same_venue;10.0;RecSys
+106;79;132;same_venue;10.0;RecSys
+107;80;99;same_venue;10.0;Expert Systems with Applications
+108;80;136;same_venue;10.0;Expert Systems with Applications
+109;81;84;same_venue;10.0;CIKM
+110;83;103;same_venue;10.0;SIGIR
+111;83;104;same_venue;10.0;SIGIR
+112;83;105;same_venue;10.0;SIGIR
+113;83;122;same_venue;10.0;SIGIR
+114;86;108;same_venue;10.0;ICDE
+115;88;121;same_venue;10.0;UMAP
+116;92;129;same_venue;10.0;Applied Intelligence
+117;96;100;same_venue;10.0;Information Sciences
+118;98;135;same_venue;10.0;Knowledge-Based Systems
+119;99;136;same_venue;10.0;Expert Systems with Applications
+120;103;104;same_venue;10.0;SIGIR
+121;103;105;same_venue;10.0;SIGIR
+122;103;122;same_venue;10.0;SIGIR
+123;104;105;same_venue;10.0;SIGIR
+124;104;122;same_venue;10.0;SIGIR
+125;105;122;same_venue;10.0;SIGIR
+126;111;124;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+127;111;125;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+128;115;131;same_venue;10.0;Multimedia Tools and Applications
+129;115;137;same_venue;10.0;Multimedia Tools and Applications
+130;120;132;same_venue;10.0;RecSys
+131;124;125;same_venue;10.0;IEEE Transactions on Knowledge and Data Engineering
+132;131;137;same_venue;10.0;Multimedia Tools and Applications

@@ -1,0 +1,1721 @@
+{
+   "nodes": [
+      {
+         "id": 1,
+         "label": "Barzegar_Nozari_2020",
+         "title": "A novel group recommender system based on members\u2019 influence and leader impact",
+         "year": "2020",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 2,
+         "label": "Wang_2016",
+         "title": "Member contribution-based group recommender system",
+         "year": "2016",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 3,
+         "label": "P_rez_Almaguer_2021",
+         "title": "Content-based group recommender systems: A general taxonomy and further improvements",
+         "year": "2021",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 4,
+         "label": "Ka_k_2016",
+         "title": "Personalized hybrid recommendation for group of users: Top-N multimedia recommender",
+         "year": "2016",
+         "venue": "Information Processing &amp; Management"
+      },
+      {
+         "id": 6,
+         "label": "Castro_2018",
+         "title": "Opinion Dynamics-Based Group Recommender Systems",
+         "year": "2018",
+         "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+      },
+      {
+         "id": 8,
+         "label": "Sacharidis_2019",
+         "title": "Top-N group recommendations with fairness",
+         "year": "2019",
+         "venue": "SAC"
+      },
+      {
+         "id": 10,
+         "label": "Qi_2017",
+         "title": "Recommending packages with validity constraints to groups of users",
+         "year": "2017",
+         "venue": "Knowledge and Information Systems"
+      },
+      {
+         "id": 12,
+         "label": "Serbos_2017",
+         "title": "Fairness in Package-to-Group Recommendations",
+         "year": "2017",
+         "venue": "WWW"
+      },
+      {
+         "id": 14,
+         "label": "10.1145/3511808.3557330",
+         "title": "GBERT: Pre-Training User Representations for Ephemeral Group Recommendation",
+         "year": "2022",
+         "venue": "CIKM"
+      },
+      {
+         "id": 15,
+         "label": "Leng_2022",
+         "title": "Dynamically aggregating individuals\u2019 social influence and interest evolution for group recommendations",
+         "year": "2022",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 16,
+         "label": "Villavicencio_2019",
+         "title": "Group recommender systems: A multi-agent solution",
+         "year": "2019",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 17,
+         "label": "Castro_2018",
+         "title": "A fuzzy approach for natural noise management in group recommender systems",
+         "year": "2018",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 18,
+         "label": "Purushotham_2016",
+         "title": "Personalized Group Recommender Systems for Location- and Event-Based Social Networks",
+         "year": "2016",
+         "venue": "ACM Transactions on Spatial Algorithms and Systems"
+      },
+      {
+         "id": 21,
+         "label": "Contreras_2021",
+         "title": "Integrating Collaboration and Leadership in Conversational Group Recommender Systems",
+         "year": "2021",
+         "venue": "ACM Transactions on Information Systems"
+      },
+      {
+         "id": 22,
+         "label": "Meena_2018",
+         "title": "Group Recommender Systems \u2013 An Evolutionary Approach Based on Multi-expert System for Consensus",
+         "year": "2018",
+         "venue": "Journal of Intelligent Systems"
+      },
+      {
+         "id": 23,
+         "label": "Ismailoglu_2022",
+         "title": "Aggregating user preferences in group recommender systems: A crowdsourcing approach",
+         "year": "2022",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 25,
+         "label": "Nguyen_2017",
+         "title": "A chat-based group recommender system for tourism",
+         "year": "2017",
+         "venue": "Information Technology &amp; Tourism"
+      },
+      {
+         "id": 26,
+         "label": "Ahmad_2017",
+         "title": "A combination of individual model on memory-based group recommender system to the books domain",
+         "year": "2017",
+         "venue": "ICoIC"
+      },
+      {
+         "id": 27,
+         "label": "Huang_2022",
+         "title": "A Novel Group Recommendation Model With Two-Stage Deep Learning",
+         "year": "2022",
+         "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+      },
+      {
+         "id": 28,
+         "label": "_lvarez_M_rquez_2016",
+         "title": "Hootle+: A Group Recommender System Supporting Preference Negotiation",
+         "year": "2016",
+         "venue": "CRIWG"
+      },
+      {
+         "id": 29,
+         "label": "Huang_2020",
+         "title": "An Efficient Group Recommendation Model With Multiattention-Based Neural Networks",
+         "year": "2020",
+         "venue": "IEEE Transactions on Neural Networks and Learning Systems"
+      },
+      {
+         "id": 30,
+         "label": "Guo_2017",
+         "title": "Applying uncertainty theory to group recommender systems taking account of experts preferences",
+         "year": "2017",
+         "venue": "Multimedia Tools and Applications"
+      },
+      {
+         "id": 31,
+         "label": "Yin_2019",
+         "title": "Social Influence-Based Group Representation Learning for Group Recommendation",
+         "year": "2019",
+         "venue": "ICDE"
+      },
+      {
+         "id": 32,
+         "label": "Cao_2021",
+         "title": "Social-Enhanced Attentive Group Recommendation",
+         "year": "2021",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 33,
+         "label": "Qin_2020",
+         "title": "Dynamic Connection-Based Social Group Recommendation",
+         "year": "2020",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 34,
+         "label": "Xiao_2017",
+         "title": "Fairness-Aware Group Recommendation with Pareto-Efficiency",
+         "year": "2017",
+         "venue": "RecSys"
+      },
+      {
+         "id": 36,
+         "label": "Yera_2022",
+         "title": "A fuzzy content-based group recommender system with dynamic selection of the aggregation functions",
+         "year": "2022",
+         "venue": "International Journal of Approximate Reasoning"
+      },
+      {
+         "id": 37,
+         "label": "Pujahari_2020",
+         "title": "Aggregation of preference relations to enhance the ranking quality of collaborative filtering based group recommender system",
+         "year": "2020",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 38,
+         "label": "Guo_2020",
+         "title": "Implicit Feedback-based Group Recommender System for Internet of Things Applications",
+         "year": "2020",
+         "venue": "GLOBECOM"
+      },
+      {
+         "id": 40,
+         "label": "Guo_2019",
+         "title": "An Enhanced Group Recommender System by Exploiting Preference Relation",
+         "year": "2019",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 41,
+         "label": "Azzalini_2022",
+         "title": "FARGO: A Fair, Context-AwaRe, Group RecOmmender System",
+         "year": "2022",
+         "venue": "BIAS"
+      },
+      {
+         "id": 43,
+         "label": "Ortega_2016",
+         "title": "Recommending items to group of users using Matrix Factorization based Collaborative Filtering",
+         "year": "2016",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 44,
+         "label": "Guo_2017",
+         "title": "A Social Influence Approach for Group User Modeling in Group Recommendation Systems",
+         "year": "2017",
+         "venue": "IEEE Intelligent Systems"
+      },
+      {
+         "id": 46,
+         "label": "Wang_2019",
+         "title": "TruGRC: Trust-Aware Group Recommendation with Virtual Coordinators",
+         "year": "2019",
+         "venue": "Future Generation Computer Systems"
+      },
+      {
+         "id": 47,
+         "label": "Ji_2018",
+         "title": "GIST: A generative model with individual and subgroup-based topics for group recommendation",
+         "year": "2018",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 48,
+         "label": "Agarwal_2017",
+         "title": "Does order matter? Effect of order in group recommendation",
+         "year": "2017",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 50,
+         "label": "Castro_2017",
+         "title": "An empirical study of natural noise management in group recommendation systems",
+         "year": "2017",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 51,
+         "label": "Vo_2018",
+         "title": "Generation meets recommendation: proposing novel items for groups of users",
+         "year": "2018",
+         "venue": "RecSys"
+      },
+      {
+         "id": 53,
+         "label": "Huang_2020",
+         "title": "Social Group Recommendation With TrAdaBoost",
+         "year": "2020",
+         "venue": "IEEE Transactions on Computational Social Systems"
+      },
+      {
+         "id": 54,
+         "label": "Malecek_2021",
+         "title": "Fairness-preserving Group Recommendations With User Weighting",
+         "year": "2021",
+         "venue": "UMAP"
+      },
+      {
+         "id": 55,
+         "label": "Kaya_2020",
+         "title": "Ensuring Fairness in Group Recommendations by Rank-Sensitive Balancing of Relevance",
+         "year": "2020",
+         "venue": "RecSys"
+      },
+      {
+         "id": 60,
+         "label": "Li_2023",
+         "title": "Self-Supervised Group Graph Collaborative Filtering for Group Recommendation",
+         "year": "2023",
+         "venue": "WSDM"
+      },
+      {
+         "id": 61,
+         "label": "Dokoupil_2023",
+         "title": "The Effect of Similarity Metric and Group Size on Outlier Selection &amp; Satisfaction in Group Recommender Systems",
+         "year": "2023",
+         "venue": "UMAP"
+      },
+      {
+         "id": 62,
+         "label": "Liang_2022",
+         "title": "DFGR: Diversity and Fairness Awareness of Group Recommendation in an Event-based Social Network",
+         "year": "2022",
+         "venue": "Neural Processing Letters"
+      },
+      {
+         "id": 63,
+         "label": "Stratigi_2023",
+         "title": "SQUIRREL: A framework for sequential group recommendations through reinforcement learning",
+         "year": "2023",
+         "venue": "Information Systems"
+      },
+      {
+         "id": 64,
+         "label": "Ji_2023",
+         "title": "A fuzzy intelligent group recommender method in sparse-data environments based on multi-agent negotiation",
+         "year": "2023",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 65,
+         "label": "Bahari_Sojahrood_2023",
+         "title": "Hybrid POI group recommender system based on group type in LBSN",
+         "year": "2023",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 66,
+         "label": "Ayala_G_mez_2017",
+         "title": "Where Could We Go?: Recommendations for Groups in Location-Based Social Networks",
+         "year": "2017",
+         "venue": "WebSci"
+      },
+      {
+         "id": 67,
+         "label": "Barile_2023",
+         "title": "Evaluating explainable social choice-based aggregation strategies for group recommendation",
+         "year": "2023",
+         "venue": "User Modeling and User-Adapted Interaction"
+      },
+      {
+         "id": 68,
+         "label": "Ceh_Varela_2022",
+         "title": "Performance Evaluation of Aggregation-based Group Recommender Systems for Ephemeral Groups",
+         "year": "2022",
+         "venue": "ACM Transactions on Intelligent Systems and Technology"
+      },
+      {
+         "id": 69,
+         "label": "Liang_2022",
+         "title": "A Hierarchical Attention Network for Cross-Domain Group Recommendation",
+         "year": "2022",
+         "venue": "IEEE Transactions on Neural Networks and Learning Systems"
+      },
+      {
+         "id": 70,
+         "label": "Zhang_2023",
+         "title": "HetGRec: Heterogeneous Graph Attention Network for Group Recommendation",
+         "year": "2023",
+         "venue": "IEEE Intelligent Systems"
+      },
+      {
+         "id": 71,
+         "label": "Wang_2022",
+         "title": "Intra- and inter-association attention network-enhanced policy learning for social group recommendation",
+         "year": "2022",
+         "venue": "World Wide Web"
+      },
+      {
+         "id": 72,
+         "label": "Streviniotis_2022",
+         "title": "Preference Aggregation Mechanisms for\u00a0a\u00a0Tourism-Oriented Bayesian Recommender",
+         "year": "2022",
+         "venue": ""
+      },
+      {
+         "id": 73,
+         "label": "Yu_2023",
+         "title": "Collaborative group embedding and decision aggregation based on attentive influence of individual members: A group recommendation perspective",
+         "year": "2023",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 74,
+         "label": "Abolghasemi_2022",
+         "title": "A personality-aware group recommendation system based on pairwise preferences",
+         "year": "2022",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 75,
+         "label": "Kumar_2022",
+         "title": "Automatically detecting groups using locality-sensitive hashing in group recommendations",
+         "year": "2022",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 77,
+         "label": "Leng_2022",
+         "title": "Incorporating global and local social networks for group recommendations",
+         "year": "2022",
+         "venue": "Pattern Recognition"
+      },
+      {
+         "id": 78,
+         "label": "Wang_2022",
+         "title": "Social dual-effect driven group modeling for neural group recommendation",
+         "year": "2022",
+         "venue": "Neurocomputing"
+      },
+      {
+         "id": 79,
+         "label": "PeskaM21",
+         "title": "Coupled or Decoupled Evaluation for Group Recommendation Methods?",
+         "year": "2021",
+         "venue": "RecSys"
+      },
+      {
+         "id": 80,
+         "label": "Nam_2021",
+         "title": "Towards comprehensive profile aggregation methods for group recommendation based on the latent factor model",
+         "year": "2021",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 81,
+         "label": "Sajjadi_Ghaemmaghami_2021",
+         "title": "DeepGroup: Group Recommendation with Implicit Feedback",
+         "year": "2021",
+         "venue": "CIKM"
+      },
+      {
+         "id": 82,
+         "label": "Guo_2021",
+         "title": "Hierarchical Hyperedge Embedding-Based Representation Learning for Group Recommendation",
+         "year": "2021",
+         "venue": "ACM Transactions on Information Systems"
+      },
+      {
+         "id": 83,
+         "label": "10.1145/3477495.3532066",
+         "title": "Thinking inside The Box: Learning Hypercube Representations for Group Recommendation",
+         "year": "2022",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 84,
+         "label": "Zhang_2021",
+         "title": "Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation",
+         "year": "2021",
+         "venue": "CIKM"
+      },
+      {
+         "id": 85,
+         "label": "Liao_2021",
+         "title": "Softwarized Attention-Based Context-Aware Group Recommendation Technology in Event-Based Industrial Cyber-Physical Systems",
+         "year": "2021",
+         "venue": "IEEE Transactions on Industrial Informatics"
+      },
+      {
+         "id": 86,
+         "label": "Deng_2021",
+         "title": "Knowledge-Aware Group Representation Learning for Group Recommendation",
+         "year": "2021",
+         "venue": "ICDE"
+      },
+      {
+         "id": 87,
+         "label": "Sato_2022",
+         "title": "Enumerating Fair Packages for Group Recommendations",
+         "year": "2022",
+         "venue": "WSDM"
+      },
+      {
+         "id": 88,
+         "label": "Dokoupil_2022",
+         "title": "Robustness Against Polarity Bias in Decoupled Group Recommendations Evaluation",
+         "year": "2022",
+         "venue": "UMAP"
+      },
+      {
+         "id": 89,
+         "label": "Liang_2021",
+         "title": "Hierarchical Fuzzy Graph Attention Network for Group Recommendation",
+         "year": "2021",
+         "venue": "FUZZ-IEEE"
+      },
+      {
+         "id": 91,
+         "label": "Jia_2021",
+         "title": "Hypergraph Convolutional Network for Group Recommendation",
+         "year": "2021",
+         "venue": "ICDM"
+      },
+      {
+         "id": 92,
+         "label": "Pujahari_2020",
+         "title": "Preference relation based collaborative filtering with graph aggregation for group recommender system",
+         "year": "2020",
+         "venue": "Applied Intelligence"
+      },
+      {
+         "id": 93,
+         "label": "Stratigi_2021",
+         "title": "Sequential group recommendations based on satisfaction and disagreement scores",
+         "year": "2021",
+         "venue": "Journal of Intelligent Information Systems"
+      },
+      {
+         "id": 94,
+         "label": "Hao_2022",
+         "title": "Self\u2010supervised graph learning for occasional group recommendation",
+         "year": "2022",
+         "venue": "International Journal of Intelligent Systems"
+      },
+      {
+         "id": 95,
+         "label": "Bahari_Sojahrood_2021",
+         "title": "Behavior\u2010based POI recommendation for small groups in location\u2010based social networks",
+         "year": "2021",
+         "venue": "Transactions in GIS"
+      },
+      {
+         "id": 96,
+         "label": "Zan_2021",
+         "title": "UDA: A user-difference attention for group recommendation",
+         "year": "2021",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 97,
+         "label": "Wang_2021",
+         "title": "Socially-driven multi-interaction attentive group representation learning for group recommendation",
+         "year": "2021",
+         "venue": "Pattern Recognition Letters"
+      },
+      {
+         "id": 98,
+         "label": "Jeong_2021",
+         "title": "DGC: Dynamic group behavior modeling that utilizes context information for group recommendation",
+         "year": "2021",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 99,
+         "label": "Bahari_Sojahrood_2021",
+         "title": "A POI group recommendation method in location-based social networks based on user influence",
+         "year": "2021",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 100,
+         "label": "Lyu_2021",
+         "title": "Multi-view group representation learning for location-aware group recommendation",
+         "year": "2021",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 101,
+         "label": "Yalcin_2021",
+         "title": "Investigating and counteracting popularity bias in group recommendations",
+         "year": "2021",
+         "venue": "Information Processing &amp; Management"
+      },
+      {
+         "id": 102,
+         "label": "Schiaffino_2020",
+         "title": "A MAS-Based Approach for POI Group Recommendation in LBSN",
+         "year": "2020",
+         "venue": "PAAMS"
+      },
+      {
+         "id": 103,
+         "label": "10.1145/3397271.3401064",
+         "title": "GAME: Learning Graphical and Attentive Multi-View Embeddings for Occasional Group Recommendation",
+         "year": "2020",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 104,
+         "label": "10.1145/3397271.3401116",
+         "title": "GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation",
+         "year": "2020",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 105,
+         "label": "Wang_2020",
+         "title": "Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation",
+         "year": "2020",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 108,
+         "label": "Guo_2020",
+         "title": "Group Recommendation with Latent Voting Mechanism",
+         "year": "2020",
+         "venue": "ICDE"
+      },
+      {
+         "id": 110,
+         "label": "Zheng_2020",
+         "title": "Educational Group Recommendations with Virtual Leaders",
+         "year": "2020",
+         "venue": "ICALT"
+      },
+      {
+         "id": 111,
+         "label": "Yin_2020",
+         "title": "Overcoming Data Sparsity in Group Recommendation",
+         "year": "2020",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 112,
+         "label": "Zhu_2020",
+         "title": "Context-Aware Restaurant Recommendation for Group of People",
+         "year": "2020",
+         "venue": "SERVICES"
+      },
+      {
+         "id": 113,
+         "label": "Yu_2022",
+         "title": "Secure Artificial Intelligence of Things for Implicit Group Recommendations",
+         "year": "2022",
+         "venue": "IEEE Internet of Things Journal"
+      },
+      {
+         "id": 114,
+         "label": "Zhao_2020",
+         "title": "A new point-of-interest group recommendation method in location-based social networks",
+         "year": "2020",
+         "venue": "Neural Computing and Applications"
+      },
+      {
+         "id": 115,
+         "label": "Choudhary_2020",
+         "title": "Negotiation framework for group recommendation based on fuzzy computational model of trust and distrust",
+         "year": "2020",
+         "venue": "Multimedia Tools and Applications"
+      },
+      {
+         "id": 116,
+         "label": "Salehi_Abari_2020",
+         "title": "Group recommendation with noisy subjective preferences",
+         "year": "2020",
+         "venue": "Computational Intelligence"
+      },
+      {
+         "id": 117,
+         "label": "Xiao_2020",
+         "title": "An enhanced probabilistic fairness-aware group recommendation by incorporating social activeness",
+         "year": "2020",
+         "venue": "Journal of Network and Computer Applications"
+      },
+      {
+         "id": 118,
+         "label": "Wang_2020",
+         "title": "Group recommendation based on hybrid trust metric",
+         "year": "2020",
+         "venue": "Automatika"
+      },
+      {
+         "id": 119,
+         "label": "Natarajan_2019",
+         "title": "Optimized fuzzy-based group recommendation with parallel computation",
+         "year": "2019",
+         "venue": "Journal of Intelligent &amp; Fuzzy Systems"
+      },
+      {
+         "id": 120,
+         "label": "Herzog_2019",
+         "title": "User-centered evaluation of strategies for recommending sequences of points of interest to groups",
+         "year": "2019",
+         "venue": "RecSys"
+      },
+      {
+         "id": 121,
+         "label": "Sacharidis_2019",
+         "title": "Modeling Uncertainty in Group Recommendations",
+         "year": "2019",
+         "venue": "UMAP"
+      },
+      {
+         "id": 122,
+         "label": "10.1145/3331184.3331251",
+         "title": "Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation",
+         "year": "2019",
+         "venue": "SIGIR"
+      },
+      {
+         "id": 124,
+         "label": "Du_2020",
+         "title": "GERF: A Group Event Recommendation Framework Based on Learning-to-Rank",
+         "year": "2020",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 125,
+         "label": "Du_2020",
+         "title": "CVTM: A Content-Venue-Aware Topic Model for Group Event Recommendation",
+         "year": "2020",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 127,
+         "label": "Wang_2019",
+         "title": "Group Recommendation via Self-Attention and Collaborative Metric Learning Model",
+         "year": "2019",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 128,
+         "label": "He_2019",
+         "title": "GRADI: Towards Group Recommendation Using Attentive Dual Top-Down and Bottom-Up Influences",
+         "year": "2019",
+         "venue": "BigData"
+      },
+      {
+         "id": 129,
+         "label": "Dara_2019",
+         "title": "A study on the role of flexible preferences in group recommendations",
+         "year": "2019",
+         "venue": "Applied Intelligence"
+      },
+      {
+         "id": 130,
+         "label": "Logesh_2018",
+         "title": "Efficient User Profiling Based Intelligent Travel Recommender System for Individual and Group of Users",
+         "year": "2018",
+         "venue": "Mobile Networks and Applications"
+      },
+      {
+         "id": 131,
+         "label": "Choudhary_2018",
+         "title": "Evolutionary learning approach to multi-agent negotiation for group recommender systems",
+         "year": "2018",
+         "venue": "Multimedia Tools and Applications"
+      },
+      {
+         "id": 132,
+         "label": "7c9bd078ab504f9ba94dcc4322f8acfa",
+         "title": "Towards creating a non-synthetic group recommendation dataset",
+         "year": "2019",
+         "venue": "RecSys"
+      },
+      {
+         "id": 133,
+         "label": "Hu_2019",
+         "title": "AGREE: Attention-Based Tour Group Recommendation with Multi-modal Data",
+         "year": "2019",
+         "venue": "DASFAA"
+      },
+      {
+         "id": 134,
+         "label": "Hannula_2019",
+         "title": "GameRecs: Video Games Group Recommendations",
+         "year": "2019",
+         "venue": "ADBIS"
+      },
+      {
+         "id": 135,
+         "label": "Feng_2019",
+         "title": "Detecting the latent associations hidden in multi-source information for better group recommendation",
+         "year": "2019",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 136,
+         "label": "Jeong_2019",
+         "title": "HGGC: A hybrid group recommendation model considering group cohesion",
+         "year": "2019",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 137,
+         "label": "Girdhar_2023",
+         "title": "Can we please everyone? Group recommendations in signed social networks",
+         "year": "2023",
+         "venue": "Multimedia Tools and Applications"
+      }
+   ],
+   "links": [
+      {
+         "source": 1,
+         "target": 16,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Knowledge-Based Systems"
+      },
+      {
+         "source": 1,
+         "target": 98,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Knowledge-Based Systems"
+      },
+      {
+         "source": 1,
+         "target": 135,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Knowledge-Based Systems"
+      },
+      {
+         "source": 2,
+         "target": 23,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Decision Support Systems"
+      },
+      {
+         "source": 2,
+         "target": 50,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Decision Support Systems"
+      },
+      {
+         "source": 2,
+         "target": 73,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Decision Support Systems"
+      },
+      {
+         "source": 3,
+         "target": 17,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 3,
+         "target": 37,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 3,
+         "target": 47,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 3,
+         "target": 48,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 3,
+         "target": 64,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 3,
+         "target": 65,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 3,
+         "target": 80,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 3,
+         "target": 99,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 3,
+         "target": 136,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 4,
+         "target": 101,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Processing &amp; Management"
+      },
+      {
+         "source": 6,
+         "target": 27,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+      },
+      {
+         "source": 14,
+         "target": 81,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "CIKM"
+      },
+      {
+         "source": 14,
+         "target": 84,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "CIKM"
+      },
+      {
+         "source": 15,
+         "target": 43,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 15,
+         "target": 74,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 15,
+         "target": 75,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 15,
+         "target": 96,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 15,
+         "target": 100,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 16,
+         "target": 98,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Knowledge-Based Systems"
+      },
+      {
+         "source": 16,
+         "target": 135,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Knowledge-Based Systems"
+      },
+      {
+         "source": 17,
+         "target": 37,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 17,
+         "target": 47,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 17,
+         "target": 48,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 17,
+         "target": 64,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 17,
+         "target": 65,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 17,
+         "target": 80,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 17,
+         "target": 99,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 17,
+         "target": 136,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 21,
+         "target": 82,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "ACM Transactions on Information Systems"
+      },
+      {
+         "source": 23,
+         "target": 50,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Decision Support Systems"
+      },
+      {
+         "source": 23,
+         "target": 73,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Decision Support Systems"
+      },
+      {
+         "source": 29,
+         "target": 69,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Neural Networks and Learning Systems"
+      },
+      {
+         "source": 30,
+         "target": 115,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Multimedia Tools and Applications"
+      },
+      {
+         "source": 30,
+         "target": 131,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Multimedia Tools and Applications"
+      },
+      {
+         "source": 30,
+         "target": 137,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Multimedia Tools and Applications"
+      },
+      {
+         "source": 31,
+         "target": 86,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "ICDE"
+      },
+      {
+         "source": 31,
+         "target": 108,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "ICDE"
+      },
+      {
+         "source": 32,
+         "target": 33,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 32,
+         "target": 111,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 32,
+         "target": 124,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 32,
+         "target": 125,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 33,
+         "target": 111,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 33,
+         "target": 124,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 33,
+         "target": 125,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 34,
+         "target": 51,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 34,
+         "target": 55,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 34,
+         "target": 79,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 34,
+         "target": 120,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 34,
+         "target": 132,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 37,
+         "target": 47,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 37,
+         "target": 48,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 37,
+         "target": 64,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 37,
+         "target": 65,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 37,
+         "target": 80,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 37,
+         "target": 99,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 37,
+         "target": 136,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 40,
+         "target": 127,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Access"
+      },
+      {
+         "source": 43,
+         "target": 74,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 43,
+         "target": 75,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 43,
+         "target": 96,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 43,
+         "target": 100,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 44,
+         "target": 70,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Intelligent Systems"
+      },
+      {
+         "source": 47,
+         "target": 48,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 47,
+         "target": 64,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 47,
+         "target": 65,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 47,
+         "target": 80,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 47,
+         "target": 99,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 47,
+         "target": 136,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 48,
+         "target": 64,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 48,
+         "target": 65,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 48,
+         "target": 80,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 48,
+         "target": 99,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 48,
+         "target": 136,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 50,
+         "target": 73,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Decision Support Systems"
+      },
+      {
+         "source": 51,
+         "target": 55,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 51,
+         "target": 79,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 51,
+         "target": 120,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 51,
+         "target": 132,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 54,
+         "target": 61,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "UMAP"
+      },
+      {
+         "source": 54,
+         "target": 88,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "UMAP"
+      },
+      {
+         "source": 54,
+         "target": 121,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "UMAP"
+      },
+      {
+         "source": 55,
+         "target": 79,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 55,
+         "target": 120,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 55,
+         "target": 132,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 60,
+         "target": 87,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "WSDM"
+      },
+      {
+         "source": 61,
+         "target": 88,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "UMAP"
+      },
+      {
+         "source": 61,
+         "target": 121,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "UMAP"
+      },
+      {
+         "source": 64,
+         "target": 65,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 64,
+         "target": 80,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 64,
+         "target": 99,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 64,
+         "target": 136,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 65,
+         "target": 80,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 65,
+         "target": 99,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 65,
+         "target": 136,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 74,
+         "target": 75,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 74,
+         "target": 96,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 74,
+         "target": 100,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 75,
+         "target": 96,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 75,
+         "target": 100,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 79,
+         "target": 120,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 79,
+         "target": 132,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 80,
+         "target": 99,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 80,
+         "target": 136,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 81,
+         "target": 84,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "CIKM"
+      },
+      {
+         "source": 83,
+         "target": 103,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 83,
+         "target": 104,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 83,
+         "target": 105,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 83,
+         "target": 122,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 86,
+         "target": 108,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "ICDE"
+      },
+      {
+         "source": 88,
+         "target": 121,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "UMAP"
+      },
+      {
+         "source": 92,
+         "target": 129,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Applied Intelligence"
+      },
+      {
+         "source": 96,
+         "target": 100,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Information Sciences"
+      },
+      {
+         "source": 98,
+         "target": 135,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Knowledge-Based Systems"
+      },
+      {
+         "source": 99,
+         "target": 136,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Expert Systems with Applications"
+      },
+      {
+         "source": 103,
+         "target": 104,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 103,
+         "target": 105,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 103,
+         "target": 122,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 104,
+         "target": 105,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 104,
+         "target": 122,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 105,
+         "target": 122,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "SIGIR"
+      },
+      {
+         "source": 111,
+         "target": 124,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 111,
+         "target": 125,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 115,
+         "target": 131,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Multimedia Tools and Applications"
+      },
+      {
+         "source": 115,
+         "target": 137,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Multimedia Tools and Applications"
+      },
+      {
+         "source": 120,
+         "target": 132,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "RecSys"
+      },
+      {
+         "source": 124,
+         "target": 125,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "source": 131,
+         "target": 137,
+         "type": "same_venue",
+         "value": 10.0,
+         "label": "Multimedia Tools and Applications"
+      }
+   ]
+}
